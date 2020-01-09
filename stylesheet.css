@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+}
+
+p {
+    font-size: 70px;
+    font-family: sans-serif;
+    color: green;
+    float: left;
+}
+
+img {
+    float: left;
+    width: 490px;
+}
+
+.column {
+float: left;
+}
